@@ -1,15 +1,2 @@
-# OscillatoryNeurocomputer
-
-Oscillatory Neurocomputer for Pattern Recognition.  When someone mentions the name of a known person we immediately recall her face and possibly many other traits. This is because we possess the so-called associative memory . Tasks, which are deemed computationally hard, such as pattern recognition, or speech recognition amongst others, can be success fully performed. The main inspiration such a computing architecture is the insight that the brain processes information generating patterns of transient neuronal activity excited by input sensory signals.
-
-We use Kuramoto’s model to illustrate the idea and to prove that such a neurocomputer has oscillatory associative properties. We demonstrate by simulation the behaviour and evolution of the non-linear dynamical neural network, both spatially and temporally.
-
-
-Reference-style:  ![alt text][logo]  [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"     
-
-
-We have verified through numerical simulations the pattern recognition behaviour of an interconnected oscillatory neural network using units (referred to here as oscillatory neurons) performing simple nonlinear transformations in parallel, underlining the feature of associative memory. Our brain also recalls memories in a similar fashion. Thus, the above architecture works very well for Pattern Recall and Recognition type problems, as minimal training (in our case, just one sample) is needed.  It is believed that a new generation of computers will employ these principles of the human brain for faster computation.
-
-
-
-_Based on Izhikevich's and Hoppensteadt's iconic paper, **Hoppensteadt, F. C. &amp; Izhikevich, E. M. Oscillatory neurocomputers with dynamic connectivity. Phys. Rev. Lett. 82, 2983–2986 (1999)._**
+# Hopfield-Networks
+Modifying a Hopfield Network using Oscillatory Neuronal Models
