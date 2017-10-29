@@ -14,4 +14,4 @@ Reference-style:  ![alt text][logo]  [logo]: https://github.com/adam-p/markdown-
 
 We have verified through numerical simulations the pattern recognition behaviour of an interconnected oscillatory neural network using units (referred to here as oscillatory neurons) performing simple nonlinear transformations in parallel, underlining the feature of associative memory. Our brain also recalls memories in a similar fashion. Thus, the above architecture works very well for Pattern Recall and Recognition type problems, as minimal training (in our case, just one sample) is needed.  It is believed that a new generation of computers will employ these principles of the human brain for faster computation.    
 
-_Based on Izhikevich's and Hoppensteadt's iconic paper, **Hoppensteadt, F. C. & Izhikevich, E. M. Oscillatory neurocomputers with dynamic connectivity. Phys. Rev. Lett. 82, 2983–2986 (1999)._**
+_Based on Izhikevich's and Hoppensteadt's iconic paper, **Hoppensteadt, F. C. & Izhikevich, E. M. Oscillatory neurocomputers with dynamic connectivity. Phys. Rev. Lett. 82, 2983–2986 (1999).**_
